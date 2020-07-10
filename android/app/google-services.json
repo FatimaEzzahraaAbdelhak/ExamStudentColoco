@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "921234057001",
+    "firebase_url": "https://coloco-student.firebaseio.com",
+    "project_id": "coloco-student",
+    "storage_bucket": "coloco-student.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921234057001:android:5e2f801c11874c7acb3938",
+        "android_client_info": {
+          "package_name": "com.example.flutterlogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921234057001-m83f1k9a8an1ks39i9876hktm0hpcstr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXBdJNIEBxxZLGU3Pj_ENpUsacV2h7hFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921234057001-m83f1k9a8an1ks39i9876hktm0hpcstr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
